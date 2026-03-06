@@ -483,7 +483,6 @@ export default function Upload() {
           <div className="card-footer">
             Files processed securely · End-to-end encrypted
           </div>
-          <ChatWidget />
         </div>
       </div>
     </>
